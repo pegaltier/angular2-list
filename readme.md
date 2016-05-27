@@ -10,7 +10,7 @@ http://tarh.developpez.com/articles/typescript/pourquoi-utiliser-typescript/
 http://kangax.github.io/compat-table/es6/  
 http://code.tutsplus.com/articles/33-developers-you-must-subscribe-to-as-a-javascript-junkie--net-18151  
 https://github.com/lukehoban/es6features  
-
+http://www.2ality.com/2016/05/six-nifty-es6-tricks.html
 
 ## ANGULAR2 OTHERS LIST
 https://github.com/jmcunningham/AngularJS2-Learning  
@@ -47,6 +47,9 @@ https://angular.io/docs/ts/latest/cookbook/component-communication.html
 http://www.angulartypescript.com/angular-2-pipes/  
 http://blog.mgechev.com/  
 http://blogs.walkingtree.in/2016/03/22/thinking-in-angular-2/  
+
+#ANGULAR2 CHEAT-SHEETS
+https://www.cheatography.com/nathane2005/cheat-sheets/angular2-pipes/
 
 ## ANGULAR2 STYLES GUIDE + CODE ANALYSIS  
 https://github.com/rangle/angular2-guidelines  
@@ -91,9 +94,9 @@ http://blog.jhades.org/how-to-run-angular-2-in-production-today/
 https://www.webcodegeeks.com/javascript/angular-js/run-angular-2-production-today/  
 http://blog.jhades.org/  
 http://www.bennadel.com/blog/3050-setting-the-window-document-title-in-angular-2-beta-9.htm  
-www.sitepoint.com/angular-2-mockbackend  
-www.bennadel.com/blog/3052-injecting-html-with-the-browserdomadapter-in-angularjs-2-beta-9.htm  
-
+http://www.sitepoint.com/angular-2-mockbackend  
+http://www.bennadel.com/blog/3052-injecting-html-with-the-browserdomadapter-in-angularjs-2-beta-9.htm  
+http://blog.angular-academy.io/how-to-run-angular-2-in-production-today/
 
 
 ## ANGULAR2 COMPONENTS
@@ -320,6 +323,8 @@ https://www.nativescript.org
 https://www.nativescript.org/nativescript-is-how-you-build-native-mobile-apps-with-angular  
 http://www.telerik.com/nativescript-ui  
 https://github.com/telerik/nativescript-ui-samples  
+http://blog.backand.com/angular-2-nativescript-vs-react-native/
+https://www.quora.com/What-are-the-key-difference-between-ReactNative-and-NativeScript
 
 ## ANGULAR2 links
 https://github.com/swirlycheetah/awesome-angular2 <<<  
