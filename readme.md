@@ -28,6 +28,13 @@ https://github.com/angular/angular-cli
 http://techcrunch.com/2015/12/15/googles-angular-2-framework-hits-beta/  
 https://angular.io/docs/ts/latest/quickstart.html  
 
+## ANGULAR 2 CLI
+http://developer.telerik.com/featured/rapid-cross-platform-development-angular-2-cli
+https://www.sitepoint.com/angular-2-tutorial
+
+## ANGULAR2 TOOLS
+https://github.com/rangle/batarangle/  
+https://github.com/manekinekko/angular2-dependencies-graph  
 
 ## ANGULAR2 DOC UTILS
 angularjs.blogspot.fr/2016/04/5-rookie-mistakes-to-avoid-with-angular.html  
@@ -97,26 +104,27 @@ http://www.bennadel.com/blog/3050-setting-the-window-document-title-in-angular-2
 http://www.sitepoint.com/angular-2-mockbackend  
 http://www.bennadel.com/blog/3052-injecting-html-with-the-browserdomadapter-in-angularjs-2-beta-9.htm  
 http://blog.angular-academy.io/how-to-run-angular-2-in-production-today/
+http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/
 
-
-## ANGULAR2 COMPONENTS
+## ANGULAR2 COMPONENTS : MODAL DROPDOWN MENU LOADING
 http://4dev.tech/2016/03/angular2-tutorial-detecting-clicks-outside-the-component/  
 http://www.bennadel.com/blog/3062-creating-an-html-dropdown-menu-component-in-angular-2-beta-11.htm  
 https://matthewross.me/blog/posts/notifications-an-angular-2-component  
 http://nicholasjohnson.com/blog/how-to-do-transclusion-in-angular-2/  
 http://tombuyse.com/creating-a-loading-indicator-in-angular-2-ionic-2/  
 https://scotch.io/tutorials/creating-your-first-angular-2-components  
+https://matthewross.me/blog/posts/minimal-angular-2-modal
 
 
 ## ANGULAR2 AUTHENTIFICATION/LOGIN/FORM
-
 http://4dev.tech/2016/03/login-screen-and-authentication-with-angular2/  
 http://blog.thoughtram.io/angular/2016/03/14/custom-validators-in-angular-2.html  
 http://almerosteyn.com/2016/03/angular2-form-validation-component  
 http://youknowriad.github.io/angular2-cookbooks/stateless-authentication.html  
 http://blog.rangle.io/how-angular-2-form-models-work/  
 https://toddmotto.com/angular-2-authentication  
-
+http://tphangout.com/angular-2-authentication-using-the-new-router/
+https://medium.com/@jecelynyeen/building-model-driven-form-with-latest-technique-in-angular-2-rc-4-b825ef780b8e#.5fhpxx1sy
 
 ## ANGULAR 2 SECURE AUTH 
 https://github.com/auth0-blog/angular2-authentication-sample  
@@ -144,6 +152,13 @@ http://blog.rangle.io/observables-and-reactive-programming-in-angular-2/
 http://restlet.com/blog/2016/04/18/interacting-efficiently-with-a-restful-service-with-angular2-and-rxjs-part-3/  
 http://www.syntaxsuccess.com/viewarticle/combining-multiple-rxjs-streams-in-angular-2.0  
 
+## ANGULAR2 REDUX
+http://julienrenaux.fr/2016/08/03/introduction-to-redux-and-angular2/
+http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/
+
+## ANGULAR2 IMMUTABLE Immutability vs Encapsulation
+https://vsavkin.com/immutability-vs-encapsulation-90549ab74487?gi=10734934a81c#.4rctf4y44
+
 ## ANGULAR2 CHANGE DETECTION
 http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html  
 http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html  
@@ -169,9 +184,7 @@ http://blogs.walkingtree.in/2016/03/28/angular2-q-a-ii/ << Interceptors
 https://www.illucit.com/blog/2016/03/angular2-http-authentication-interceptor/#more-385  
 http://www.barbarianmeetscoding.com/blog/2016/04/02/getting-started-with-angular-2-step-by-step-6-consuming-real-data-with-http/  
 
-## ANGULAR2 TOOLS
-https://github.com/rangle/batarangle/  
-https://github.com/manekinekko/angular2-dependencies-graph  
+
 
 ## ANGULAR2 SEEDS
 https://github.com/NathanWalker/angular2-seed-advanced  
@@ -234,6 +247,7 @@ http://raibledesigns.com/rd/entry/testing_angular_2_applications
 
 ## ANGULAR2 DEBUG
 http://juristr.com/blog/2016/02/debugging-angular2-console/  
+https://scotch.io/tutorials/debugging-angular-2-apps-with-augury
 
 
 
