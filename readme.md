@@ -140,7 +140,6 @@ https://stormpath.com/blog/jjwt-how-it-works-why/
 
 ## ANGULAR2 OBSERVABLE/REACTIVE/STATE/RXJS  
 http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications  
-http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1/  
 https://github.com/ngrx/store  
 http://espeo.eu/blog/angular-2-reactive-programming-rxjs/  
 https://jaxenter.com/reactive-programming-http-and-angular-2-124560.html  
@@ -155,6 +154,8 @@ http://www.syntaxsuccess.com/viewarticle/combining-multiple-rxjs-streams-in-angu
 ## ANGULAR2 REDUX
 http://julienrenaux.fr/2016/08/03/introduction-to-redux-and-angular2/
 http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/
+http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1  
+
 
 ## ANGULAR2 IMMUTABLE Immutability vs Encapsulation
 https://vsavkin.com/immutability-vs-encapsulation-90549ab74487?gi=10734934a81c#.4rctf4y44
@@ -391,7 +392,6 @@ http://blog.42la.bs/building-simple-reddit-client-with-angular2-and-rxjs-part-1/
 http://www.synbioz.com/blog/angularjs_2_0_changements_notables  
 https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/  
 http://swirlycheetah.com/try-angular2-today/  
-http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1  
 http://www.sitepoint.com/getting-started-with-angular-2-using-typescript/  
 http://victorsavkin.com/post/123555572351/writing-angular-2-in-typescript  
 http://info.meteor.com/blog/comparing-performance-of-blaze-react-angular-meteor-and-angular-2-with-meteor  
