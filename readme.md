@@ -1,3 +1,52 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Angular2 list](#angular2-list)
+  - [ES2015/ES6 COURSES](#es2015es6-courses)
+  - [ANGULAR2 OTHERS LIST](#angular2-others-list)
+  - [ANGULAR2 START](#angular2-start)
+  - [ANGULAR 2 CLI](#angular-2-cli)
+  - [ANGULAR2 TOOLS](#angular2-tools)
+  - [ANGULAR2 DOC UTILS](#angular2-doc-utils)
+  - [ANGULAR2 STYLES GUIDE + CODE ANALYSIS](#angular2-styles-guide--code-analysis)
+  - [ANGULAR2 SUPPORT IE/MOZILLA OLD VERSION](#angular2-support-iemozilla-old-version)
+  - [ANGULAR2 SCALABLE](#angular2-scalable)
+  - [ANGULAR2  BOOK/COURSES](#angular2--bookcourses)
+  - [ANGULAR2 SNIPPETS](#angular2-snippets)
+  - [ANGULAR2 BUILD/CONFIG/INTERNATIONALIZATION/PRODUCTION](#angular2-buildconfiginternationalizationproduction)
+  - [ANGULAR2 COMPONENTS : MODAL DROPDOWN MENU LOADING](#angular2-components--modal-dropdown-menu-loading)
+  - [ANGULAR2 AUTHENTIFICATION/LOGIN/FORM](#angular2-authentificationloginform)
+  - [ANGULAR 2 SECURE AUTH](#angular-2-secure-auth)
+  - [ANGULAR2 OBSERVABLE/REACTIVE/STATE/RXJS](#angular2-observablereactivestaterxjs)
+  - [ANGULAR2 REDUX](#angular2-redux)
+  - [ANGULAR2 IMMUTABLE Immutability vs Encapsulation](#angular2-immutable-immutability-vs-encapsulation)
+  - [ANGULAR2 CHANGE DETECTION](#angular2-change-detection)
+  - [ANGULAR2 DEPENDENCY INJECTION](#angular2-dependency-injection)
+  - [ANGULAR2 HTTP](#angular2-http)
+  - [ANGULAR2 SEEDS](#angular2-seeds)
+  - [ANGULAR2  CSS](#angular2--css)
+  - [ANGULAR2 ROUTES](#angular2-routes)
+  - [ANGULAR2 SEO](#angular2-seo)
+  - [ANGULAR2 DYNAMIC LOAD/LAZY LOAD](#angular2-dynamic-loadlazy-load)
+  - [ANGULAR2 RENDERING CIENT](#angular2-rendering-cient)
+  - [ANGULAR2 TEST](#angular2-test)
+  - [ANGULAR2 DEBUG](#angular2-debug)
+  - [ANGULAR2 API](#angular2-api)
+  - [ANGULAR2 LIBS GENERAL](#angular2-libs-general)
+  - [ANGULAR2  LIBS THEME/STYLE/CSS](#angular2--libs-themestylecss)
+  - [ANGULAR2 demo sources](#angular2-demo-sources)
+  - [ANGULAR2 running demo](#angular2-running-demo)
+  - [ANGULAR2 native hybride mobile](#angular2-native-hybride-mobile)
+  - [ANGULAR2 links](#angular2-links)
+  - [ANGULAR2 sources](#angular2-sources)
+  - [ANGULAR2 testing](#angular2-testing)
+  - [ANGULAR2/ANGULAR1 COMPARAISON + MIGRATION NG1](#angular2angular1-comparaison--migration-ng1)
+  - [ANGULAR2/REACT COMPARAISON](#angular2react-comparaison)
+  - [ANGULAR 2 OTHERS ARTICLES](#angular-2-others-articles)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Angular2 list
  
 
