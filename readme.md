@@ -8,6 +8,7 @@
   - [ANGULAR2 START](#angular2-start)
   - [ANGULAR 2 CLI](#angular-2-cli)
   - [ANGULAR2 TOOLS](#angular2-tools)
+  - [ANGULAR2 DEBUG](#angular2-debug)
   - [ANGULAR2 DOC UTILS](#angular2-doc-utils)
   - [ANGULAR2 STYLES GUIDE + CODE ANALYSIS](#angular2-styles-guide--code-analysis)
   - [ANGULAR2 SUPPORT IE/MOZILLA OLD VERSION](#angular2-support-iemozilla-old-version)
@@ -31,7 +32,6 @@
   - [ANGULAR2 DYNAMIC LOAD/LAZY LOAD](#angular2-dynamic-loadlazy-load)
   - [ANGULAR2 RENDERING CIENT](#angular2-rendering-cient)
   - [ANGULAR2 TEST](#angular2-test)
-  - [ANGULAR2 DEBUG](#angular2-debug)
   - [ANGULAR2 API](#angular2-api)
   - [ANGULAR2 LIBS GENERAL](#angular2-libs-general)
   - [ANGULAR2  LIBS THEME/STYLE/CSS](#angular2--libs-themestylecss)
@@ -87,6 +87,12 @@ https://github.com/manekinekko/angular2-dependencies-graph
 https://augury.angular.io/
 
 
+
+## ANGULAR2 DEBUG
+http://juristr.com/blog/2016/02/debugging-angular2-console/  
+https://scotch.io/tutorials/debugging-angular-2-apps-with-augury
+http://juristr.com/blog/2016/02/debugging-angular2-console  
+
 ## ANGULAR2 DOC UTILS
 angularjs.blogspot.fr/2016/04/5-rookie-mistakes-to-avoid-with-angular.html  
 http://www.wintellect.com/devcenter/dbaskin/big-ideas-behind-angular2  
@@ -97,7 +103,7 @@ https://learnxinyminutes.com/docs/typescript/
 http://www.typescriptlang.org/Handbook  
 https://acadgild.com/blog/typescript-functions/  
 https://github.com/johnpapa/angular-styleguide/blob/master/a2/README.md  
-juristr.com/blog/2016/02/debugging-angular2-console  
+
 https://angular.io/docs/js/latest/resources.html  
 http://angularjs.blogspot.fr/2015/12/building-mobile-apps-with-angular-2-and.html  
 https://angular.io/docs/ts/latest/cookbook/a1-a2-quick-reference.html  
@@ -294,12 +300,6 @@ http://blog.rangle.io/testing-angular-2-applications/
 http://blog.devcross.net/2016/03/11/angular-2-typescript-codecoverage/  
 https://medium.com/google-developer-experts/angular-2-unit-testing-with-jasmine-defe20421584#.8fqvbe9dr  
 http://raibledesigns.com/rd/entry/testing_angular_2_applications  
-
-
-
-## ANGULAR2 DEBUG
-http://juristr.com/blog/2016/02/debugging-angular2-console/  
-https://scotch.io/tutorials/debugging-angular-2-apps-with-augury
 
 
 
