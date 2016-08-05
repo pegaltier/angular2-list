@@ -84,6 +84,8 @@ https://www.sitepoint.com/angular-2-tutorial
 ## ANGULAR2 TOOLS
 https://github.com/rangle/batarangle/  
 https://github.com/manekinekko/angular2-dependencies-graph  
+https://augury.angular.io/
+
 
 ## ANGULAR2 DOC UTILS
 angularjs.blogspot.fr/2016/04/5-rookie-mistakes-to-avoid-with-angular.html  
