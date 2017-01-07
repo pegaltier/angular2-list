@@ -73,7 +73,7 @@ https://www.reddit.com/r/Angular2/comments/4cvwjr/helpful_github_repos_curated_t
 ## ANGULAR2 START
 http://www.tryangular2.com/  
 http://learnangular2.com/  
-http://builtwithangular2.com/  
+http://angularexpo.com/  
 https://github.com/angular/angular-cli  
 http://techcrunch.com/2015/12/15/googles-angular-2-framework-hits-beta/  
 https://angular.io/docs/ts/latest/quickstart.html  
